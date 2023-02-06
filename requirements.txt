@@ -5,3 +5,4 @@ dash==2.8.1
 beautifulsoup4==4.11.2
 black==23.1.0
 lxml==4.9.2
+kaleido==0.2.1
